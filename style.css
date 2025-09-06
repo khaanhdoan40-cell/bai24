@@ -1,0 +1,13 @@
+body {
+  background-image: url(./img/494888601_1046192177475783_4758308153157481442_n.jpg);
+}
+
+h2 {
+  /* opacity: 0; */
+  /* display: none; */
+  visibility: hidden;
+  background-color: rgb(0, 255, 42);
+}
+span {
+  visibility: visible;
+}
